@@ -2,6 +2,7 @@
 layout: default
 title: "Project 1"
 ---
+[Click here to go Home](.index.html).
 
 # Project 1
 
@@ -11,6 +12,8 @@ title: "Project 1"
 This project uses two Augmented reality (merge and class) cubes called knickknacks, which displays a 3D model when shown to a camera with a AR viewing program. For this project, we had to create a knickknack that displayed a location or attraction. I picked Ogilvie Transportation Center and Soldier Field, both in Chicago Illinois. When these cubes are shown, they will display OTC and Soldier Field, mapped over their respective cubes. They will also show the weather, time, name, and a logo for each knickknack.
 
 ![doublepicture](/assets/images/bothpics.jpg)
+
+This is the link to the 5 minute youtube video! [Youtube Link](https://www.youtube.com/watch?v=Sd_svL-CHhQ&ab_channel=Jamame)
 
 
 ## How to set up
