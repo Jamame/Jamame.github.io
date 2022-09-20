@@ -2,15 +2,25 @@
 layout: default
 ---
 
+<!---
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll
+https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html
+bundle exec jekyll serve
+http://localhost:4000
+--->
+
 # Welcome!
 
-More things will be added soon!
-[Link to another page](./another-page.html).
+Click these links down below to access projects and homeworks!
 
+[Project 1](./project1.html).
 
 <!---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Project 1](./another-page.html).
 
 There should be whitespace between paragraphs.
 
