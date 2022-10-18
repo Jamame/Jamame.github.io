@@ -2,7 +2,7 @@
 layout: default
 title: "Project 1"
 ---
-[Click here to go Home](.index.html).
+[Click here to go Home](./index.html).
 
 # Project 1
 
@@ -11,7 +11,7 @@ title: "Project 1"
 
 This project uses two Augmented reality (merge and class) cubes called knickknacks, which displays a 3D model when shown to a camera with a AR viewing program. For this project, we had to create a knickknack that displayed a location or attraction. I picked Ogilvie Transportation Center and Soldier Field, both in Chicago Illinois. When these cubes are shown, they will display OTC and Soldier Field, mapped over their respective cubes. They will also show the weather, time, name, and a logo for each knickknack.
 
-![doublepicture](/assets/images/bothpics.jpg)
+![doublepicture](/assets/images/project1pics/bothpics.jpg)
 
 This is the link to the 5 minute youtube video! [Youtube Link](https://www.youtube.com/watch?v=Sd_svL-CHhQ&ab_channel=Jamame)
 
@@ -39,42 +39,42 @@ This is the link to the 5 minute youtube video! [Youtube Link](https://www.youtu
 
 **Models and assets online**
 
-This tree asset is from Broken Vector. [Link](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866) ![tree](/assets/images/treeSF.PNG) 
+This tree asset is from Broken Vector. [Link](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866) ![tree](/assets/images/project1pics/treeSF.PNG) 
 
-These roads and sidewalk assets is from 255 pixel studios. [Link](https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224#description) ![roadsidewalk](/assets/images/roadsidewalk.PNG)
+These roads and sidewalk assets is from 255 pixel studios. [Link](https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224#description) ![roadsidewalk](/assets/images/project1pics/roadsidewalk.PNG)
 
-This car asset is from Nextlog Art Factory. [Link](https://assetstore.unity.com/packages/3d/environments/urban/lowpoly-free-city-map-127919) ![car](/assets/images/car.PNG)
+This car asset is from Nextlog Art Factory. [Link](https://assetstore.unity.com/packages/3d/environments/urban/lowpoly-free-city-map-127919) ![car](/assets/images/project1pics/car.PNG)
 
-This is the metra logo used from this website. [Link](https://rtams.org/group/metra) ![Logo](/assets/images/metralogo.jpg) 
+This is the metra logo used from this website. [Link](https://rtams.org/group/metra) ![Logo](/assets/images/project1pics/metralogo.jpg) 
 
 The audio is train station sounds from this youtube link. [Link](https://www.youtube.com/watch?v=s2NTvz8Pdkg&ab_channel=VariousArtists-Topic)
 
 **Models created**
 
-This is the Ogilvie Transportation Center building. ![building](/assets/images/buildingotc.PNG)
+This is the Ogilvie Transportation Center building. ![building](/assets/images/project1pics/buildingotc.PNG)
 
-This is a train. ![train](/assets/images/train.PNG)
+This is a train. ![train](/assets/images/project1pics/train.PNG)
 
 
 ### Soldier Field knickknack
 
 **Models and assets online**
 
-This tree is a diffrent tree from Broken Vector. [Link](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866) ![tree](/assets/images/treeSF.PNG)
+This tree is a diffrent tree from Broken Vector. [Link](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866) ![tree](/assets/images/project1pics/treeSF.PNG)
 
-These are clouds from The Fallout Nerd. [Link](https://assetstore.unity.com/packages/3d/3le-low-poly-cloud-pack-65911) ![clouds](/assets/images/clouds.PNG)
+These are clouds from The Fallout Nerd. [Link](https://assetstore.unity.com/packages/3d/3le-low-poly-cloud-pack-65911) ![clouds](/assets/images/project1pics/clouds.PNG)
 
-This flag is from Sam Guilmard. [Link](https://assetstore.unity.com/packages/3d/props/realistic-flag-pack-116392) ![flag](/assets/images/flag.PNG)
+This flag is from Sam Guilmard. [Link](https://assetstore.unity.com/packages/3d/props/realistic-flag-pack-116392) ![flag](/assets/images/project1pics/flag.PNG)
 
-This is the soldier field logo used from this website. [Link](https://en.wikipedia.org/wiki/Soldier_Field) ![Logo](/assets/images/soldierfieldlogo.PNG) 
+This is the soldier field logo used from this website. [Link](https://en.wikipedia.org/wiki/Soldier_Field) ![Logo](/assets/images/project1pics/soldierfieldlogo.PNG) 
 
 The audio is cheering noises from this youtube link. [Link](https://www.youtube.com/watch?v=tq-Bp_2FOGA&ab_channel=SaraschanStienwongnusa)
 
 **Models created**
 
-This is the Soldier Field Stadium. ![stadium](/assets/images/soldierfield.PNG)
+This is the Soldier Field Stadium. ![stadium](/assets/images/project1pics/soldierfield.PNG)
 
-This is a football. ![football](/assets/images/football.PNG)
+This is a football. ![football](/assets/images/project1pics/football.PNG)
 
 ## Discussion
 
