@@ -18,6 +18,8 @@ Click these links down below to access projects and homeworks!
 
 [Project 2](./project2.html).
 
+[Student Choice](./studentchoice.html).
+
 <!---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
