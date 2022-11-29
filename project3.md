@@ -12,7 +12,7 @@ title: "Project 3"
 For this project, we had to work with virtual reality to change the look of the interior of the unbuilt CDRLC building. A template of this building was given by our instructor in project 2, where we had to make a small kisok in the building. Project 3 further expands on this, by allowing students to decorate the walls and add new features like switches, animations, and interactions. Although a theme was recommended, I went with having no real theme, adding random 3D objects, some with animations, to see how they would fit in this space.
 
 
-![mainpic](/assets/images/proj3pics/proj3main.png)
+![mainpic](/assets/images/proj3pics/proj3main.PNG)
 
 **This is the link to the 5 minute youtube video! [Youtube Link](https://youtu.be/jku58D_dsgQ)**
 
