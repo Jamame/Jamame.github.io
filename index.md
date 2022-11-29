@@ -18,6 +18,8 @@ Click these links down below to access projects and homeworks!
 
 [Project 2](./project2.html).
 
+[Project 3](./project3.html).
+
 [Student Choice](./studentchoice.html).
 
 <!---
