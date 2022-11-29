@@ -11,12 +11,20 @@ title: "Project 3"
 
 For this project, we had to work with virtual reality to change the look of the interior of the unbuilt CDRLC building. A template of this building was given by our instructor in project 2, where we had to make a small kisok in the building. Project 3 further expands on this, by allowing students to decorate the walls and add new features like switches, animations, and interactions. Although a theme was recommended, I went with having no real theme, adding random 3D objects, some with animations, to see how they would fit in this space.
 
+## Description
+
+Here are some of the things you can do in this project!
+1. Interact with the student human, who will play a voiceline.
+2. Interact with the tables.
+3. Interact with the lever on the floor.
+4. Interact with the vending machines, which will spawn items.
+5. Interact with the chips and wine that pop out of the vending machine.
 
 ![mainpic](/assets/images/proj3pics/proj3main.PNG)
 
 **This is the link to the 5 minute youtube video! [Youtube Link](https://youtu.be/jku58D_dsgQ)**
 
-Note, The recording framerate was poor, but the actual app running itself ran in high fps.
+Note: The recording framerate was poor, but the actual app running itself ran in high fps.
 
 
 ## How to set up
