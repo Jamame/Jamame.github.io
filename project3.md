@@ -42,59 +42,59 @@ Note, The recording framerate was poor, but the actual app running itself ran in
 
 **Grabbable objects**
 
-1. This is a vending machine for wine from VIS Games. ![winevending](/assets/images/proj3pics/vendingmachine1.png) 
+1. This is a vending machine for wine from VIS Games. ![winevending](/assets/images/proj3pics/vendingmachine1.PNG) 
 **Makes a sound when interacted with. Also spawns an object.** [Link](https://assetstore.unity.com/packages/3d/props/interior/snack-machines-3517)
 
-2. This is a vending machine for chips from VIS Games. ![chipsvending](/assets/images/proj3pics/vendingmachine2.png)
+2. This is a vending machine for chips from VIS Games. ![chipsvending](/assets/images/proj3pics/vendingmachine2.PNG)
 **Makes a sound when interacted with. Also spawns an object.** [Link](https://assetstore.unity.com/packages/3d/props/interior/snack-machines-3517)
 
-3. This is chips from Lumo-Art 3D. ![chips](/assets/images/proj3pics/chips.png) 
+3. This is chips from Lumo-Art 3D. ![chips](/assets/images/proj3pics/chips.PNG) 
 **Makes a sound when interacted with.** [Link](https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884)
 
-4. This is wine from Lumo-Art 3D. ![wine](/assets/images/proj3pics/wine.png) 
+4. This is wine from Lumo-Art 3D. ![wine](/assets/images/proj3pics/wine.PNG) 
 **Makes a sound when interacted with. Also has a particle system.** [Link](https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884)
 
-5. This a piece of cheese from Lumo-Art 3D. ![cheese](/assets/images/proj3pics/cheese.png) [Link](https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884)
+5. This a piece of cheese from Lumo-Art 3D. ![cheese](/assets/images/proj3pics/cheese.PNG) [Link](https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884)
 
-6. This human asset was created from MakeHuman and Mixamo for animation. ![human](/assets/images/proj3pics/studentHuman.png) **Makes a sound when interacted with.**
+6. This human asset was created from MakeHuman and Mixamo for animation. ![human](/assets/images/proj3pics/studentHuman.PNG) **Makes a sound when interacted with.**
 
-7. This is a mensa table from Albert Gregl. ![mensa1](/assets/images/proj3pics/mensa1.png) [Link](https://assetstore.unity.com/packages/3d/props/furniture/roman-furniture-roman-villa-pack-165586)
+7. This is a mensa table from Albert Gregl. ![mensa1](/assets/images/proj3pics/mensa1.PNG) [Link](https://assetstore.unity.com/packages/3d/props/furniture/roman-furniture-roman-villa-pack-165586)
 
-8. This is another mensa table from Albert Gregl. ![mensa2](/assets/images/proj3pics/mensa2.png) [Link](https://assetstore.unity.com/packages/3d/props/furniture/roman-furniture-roman-villa-pack-165586)
+8. This is another mensa table from Albert Gregl. ![mensa2](/assets/images/proj3pics/mensa2.PNG) [Link](https://assetstore.unity.com/packages/3d/props/furniture/roman-furniture-roman-villa-pack-165586)
 
 
 
 
 ## Non Grabbable and Animated or Light Source or Flats
 
-1. This is a wall light from FlatRiver. ![walllight](/assets/images/proj3pics/wallLight.png) 
+1. This is a wall light from FlatRiver. ![walllight](/assets/images/proj3pics/wallLight.PNG) 
 **Has a light source.** [Link](https://assetstore.unity.com/packages/3d/props/simple-wall-lamp-69411)
 
-2. This is a roman light from Albert Gregl. ![roman light](/assets/images/proj3pics/romanLight.png) 
+2. This is a roman light from Albert Gregl. ![roman light](/assets/images/proj3pics/romanLight.PNG) 
 **Has a light source.** [Link](https://assetstore.unity.com/packages/3d/props/furniture/roman-furniture-roman-villa-pack-165586)
 
-5. This an animated spider from [prism bucket]. ![spider](/assets/images/proj3pics/spider.png) 
+5. This an animated spider from [prism bucket]. ![spider](/assets/images/proj3pics/spider.PNG) 
 **Animated.** [Link](https://assetstore.unity.com/packages/3d/characters/animals/insects/animated-spider-22986)
 
-6. This is an animated butterfly from INNOWELL GmbH. ![butterfly](/assets/images/proj3pics/butterfly.png) 
+6. This is an animated butterfly from INNOWELL GmbH. ![butterfly](/assets/images/proj3pics/butterfly.PNG) 
 **Animated and moves around the scene.** [Link](https://assetstore.unity.com/packages/3d/characters/animals/insects/butterfly-animated-58355)
 
-7. This is a rug from Azerilo. ![rug1](/assets/images/proj3pics/rug1.png) 
+7. This is a rug from Azerilo. ![rug1](/assets/images/proj3pics/rug1.PNG) 
 **Flat Model.** [Link](https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178)
 
-8. This is another rug from Azerilo. ![rug2](/assets/images/proj3pics/rug2.png) 
+8. This is another rug from Azerilo. ![rug2](/assets/images/proj3pics/rug2.PNG) 
 **Flat Model.** [Link](https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178)
 
-9. This is the third rug from Azerilo. ![rug3](/assets/images/proj3pics/rug3.png) 
+9. This is the third rug from Azerilo. ![rug3](/assets/images/proj3pics/rug3.PNG) 
 **Flat Model.** [Link](https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178)
 
-10. This is a painting from Webcadabra. ![paint1](/assets/images/proj3pics/painting1.png) 
+10. This is a painting from Webcadabra. ![paint1](/assets/images/proj3pics/painting1.PNG) 
 **Flat Model.** [Link](https://assetstore.unity.com/packages/3d/props/interior/paintings-free-44185)
 
-11. This is another painting from Webcadabra. ![paint2](/assets/images/proj3pics/painting2.png) 
+11. This is another painting from Webcadabra. ![paint2](/assets/images/proj3pics/painting2.PNG) 
 **Flat Model.** [Link](https://assetstore.unity.com/packages/3d/props/interior/paintings-free-44185)
 
-12. This is a switch that plays a voice recording by me when flipped. ![switch](/assets/images/proj3pics/switch.png) 
+12. This is a switch that plays a voice recording by me when flipped. ![switch](/assets/images/proj3pics/switch.PNG) 
 **Makes a sound when interacted with.**
 
 
